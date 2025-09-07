@@ -8,7 +8,10 @@ const HomePage: React.FC = () => {
       <div>
         <ul>
           <li>
-            <Link to="/typescript-basics-1">Typescriptの基礎</Link>
+            <Link to="/typescript-basics-1">Typescriptの基礎 (1)</Link>
+          </li>
+          <li>
+            <Link to="/typescript-basics-2">Typescriptの基礎 (2)</Link>
           </li>
         </ul>
       </div>

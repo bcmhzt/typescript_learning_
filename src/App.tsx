@@ -1,14 +1,8 @@
-import React from "react";
-import ListPage from "./pages/ListPage";
-import TypescriptBasics1 from "src/pages/TypescriptBasics1";
+// import React from "react";
+// // import ListPage from "./pages/ListPage";
 
-const App: React.FC = () => {
-  return (
-    <div>
-      <ListPage />
-      <TypescriptBasics1 />
-    </div>
-  );
-};
+// const App: React.FC = () => {
+//   return <div>{/* <ListPage /> */}</div>;
+// };
 
-export default App;
+// export default App;
